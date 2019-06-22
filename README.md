@@ -6,5 +6,5 @@ Created a Hotel Website using Visual Studio.
 
 C#, HTML, CSS, SQL Database
 
-Video Link: --- soon
+Video Link: https://youtu.be/HeVL5w6xuEk
 
